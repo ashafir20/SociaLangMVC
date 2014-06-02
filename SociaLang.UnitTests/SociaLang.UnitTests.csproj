@@ -67,10 +67,6 @@
       <Project>{d7645adf-00af-4ab7-8fd1-5e9041415b9d}</Project>
       <Name>SociaLang.Domain</Name>
     </ProjectReference>
-    <ProjectReference Include="..\SociaLang.WebUI\SociaLang.WebUI.csproj">
-      <Project>{dc82d13b-0551-4adf-a710-9cf28f57e818}</Project>
-      <Name>SociaLang.WebUI</Name>
-    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
